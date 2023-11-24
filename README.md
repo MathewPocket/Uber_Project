@@ -20,3 +20,9 @@ MAP_BOX_TOKEN : Doit contenir votre clé api [MAPBOX](https://www.mapbox.com)
 
 ### Exécution du script
 Vous pouvez lancer chaque cellule à la main ou d'un seul coup, les graphiques seront affichés en bas
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
