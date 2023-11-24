@@ -7,9 +7,9 @@ Copy .env.dist to .env
 Change ` user:token`  in CLONE_REPO_CALIBSUN
 
 Open a terminal on the local repo and start building 
-    ```
-    docker-compose up
-    ```
+```
+docker-compose up
+```
 
 Then go to [calibsun.localhost](http://calibsun.localhost/fr)
 
